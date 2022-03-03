@@ -1,6 +1,7 @@
  E-Commerce Backend 
 ## Description
 This application is the backend section of an e-commerce platform. It made use of Express.js for the server side, MySQL to create the database and  Sequelize as the ORM to run SQL models and queries. The SQL database has tables for products, categories, tags, and product tags. Restful API routesare used to make requests and updates from the database which are linked by queries in Sequelize.
+https://youtu.be/Xdfkc7cTlVc
 
 ![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
      
